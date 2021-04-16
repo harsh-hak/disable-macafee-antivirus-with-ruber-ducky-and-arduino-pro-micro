@@ -28,9 +28,9 @@ void setup()
 
   delay(300);
 
-  Keyboard.print("ma");
+  Keyboard.print("macafee");
 
-  delay(21000);
+  delay(1000);
 
   typeKey(KEY_RETURN);
 
@@ -40,31 +40,27 @@ void setup()
 
   delay(50);
 
-  typeKey(KEY_TAB);
-
-  delay(50);
-
-  typeKey(KEY_TAB);
-
-  delay(50);
-
-  typeKey(KEY_TAB);
-
-  delay(50);
-
-  typeKey(KEY_TAB);
-
-  delay(50);
-
-  typeKey(KEY_TAB);
-
-  delay(50);
-  
-  typeKey(KEY_TAB);
-  
-  delay(50);
-
   typeKey(KEY_RETURN);
+
+  delay(50);
+
+  typeKey(KEY_TAB);
+
+  delay(50);
+
+  typeKey(KEY_TAB);
+
+  delay(50);
+
+  typeKey(KEY_TAB);
+
+  delay(50);
+
+  typeKey(KEY_TAB);
+
+  delay(50);
+
+  typeKey(KEY_TAB);
 
   delay(50);
 
