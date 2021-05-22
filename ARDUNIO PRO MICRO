@@ -37,6 +37,10 @@ void setup()
   delay(5000);
 
   typeKey(KEY_TAB);
+  
+  delay(50);
+  
+  typeKey(KEY_TAB);
 
   delay(50);
 
